@@ -1,3 +1,5 @@
+[Preview source](demo/index.html) — static product preview. [Get the Android app](https://github.com/lifeofsanjar/uy-biznesi/releases/latest).
+
 # Uy biznesi
 
 Uy biznesi is an offline-first Flutter app for tracking sales and profit in a home fruit business. Sale records and reports stay on the device in a local SQLite database.
@@ -34,3 +36,5 @@ The application ID currently uses Flutter's template value (`com.example.home_fr
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE).
+
+

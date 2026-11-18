@@ -49,3 +49,7 @@ android/*.keystore
 
 # Widget Preview related
 .widget_preview/
+
+# Netlify local state
+.netlify
+
