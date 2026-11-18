@@ -1,0 +1,4 @@
+storeFile=C:/absolute/path/to/upload-key.jks
+storePassword=REPLACE_WITH_KEYSTORE_PASSWORD
+keyAlias=upload
+keyPassword=REPLACE_WITH_KEY_PASSWORD
